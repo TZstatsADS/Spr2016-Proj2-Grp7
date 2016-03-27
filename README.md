@@ -28,7 +28,7 @@ proj/
 
 Barglary(Project 2) - Team 7
 
-Team members: Aoyuan Liao
+Team members: Aoyuan Liao, Rong Wang, Arnold Chua Lau, Yanran Wang, Haoyang Chen  
 
 Summary: In this project, we visualized the geographic distribution of crimes in NYC and tried to find a relation between crime occurance and geographic positons. We built an app to help users find the safest bar located in a neighborhood with low crime rate and this app also provide other information about bars such as their address, the commonest type of crime in their neighborhood and their rankings in NYC.
 

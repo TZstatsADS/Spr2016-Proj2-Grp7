@@ -36,3 +36,10 @@ Aoyuan Liao did the following:
 * Designed and developed the shiny app including bar searching box, neighborhood searching box, crime type selecting box and time slider bar.
 * Marked bars' location on Leaflet choropleth map with different marking symbols.
 * Embedded Google Maps API and marked the location of the bar that users search for on Google map.
+
+Arnold Lau did the following:
+* Sourced and processed crime and liquor license data
+* Converted raw data into spatially-referenced data via merging with NYC Neighborhood Tabulation Areas
+* Designed and developed the shiny app including bar searching box, neighborhood searching box, crime type selecting box and time slider bar.
+* Created Leaflet choropleth map for crime density.
+

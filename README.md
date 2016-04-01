@@ -43,3 +43,8 @@ Arnold Lau did the following:
 * Designed and developed the shiny app including bar searching box, neighborhood searching box, crime type selecting box and time slider bar.
 * Created Leaflet choropleth map for crime density.
 
+Rong Wang did the following:
+* Manipulated and transformed raw data into rank and quantile.
+* Embedded the rank of crime data for bars in different areas.
+* Created crime data analysis for each bar including barplot and pieplot.
+* Designed and developed the shiny app including bar searching box, neighborhood searching box, crime type selecting box and time slider bar.

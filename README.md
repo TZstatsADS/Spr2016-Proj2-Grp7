@@ -48,3 +48,12 @@ Rong Wang did the following:
 * Embedded the rank of crime data for bars in different areas.
 * Created crime data analysis for each bar including barplot and pieplot.
 * Designed and developed the shiny app including bar searching box, neighborhood searching box, crime type selecting box and time slider bar.
+
+
+Yanran Wang did the following:
+* Designed and wrote R script code for finding crimes related to each bars in NYC, which was implemented as fundamental tool for displaying dynamic crime records on map.
+* Assisted in compling and intersecting huge data sets by solving data structure problems.
+* Researched and calculated basic data analysis with regard to crime rate based upon bar location.
+* Gave a brief and to the point speech about the initiation and project progressing of the shiny app  for group presentation.
+
+
